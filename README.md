@@ -41,7 +41,7 @@ Throughout this implementation, the application was containerized, deployed usin
 > *Architecture provided by the OpenTelemetry Project.*
 
 <p align="center">
-  <img src="screenshots/architecture.png" alt="OpenTelemetry Demo Architecture" width="100%">
+  <img src="./screenshots/architecture.png" alt="OpenTelemetry Demo Architecture" width="100%">
 </p>
 
 ---
