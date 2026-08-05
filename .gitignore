@@ -34,9 +34,8 @@ composer.lock
 .venv
 .dockerhub.env
 .ghcr.env
-screenshots/
-docs/
-README.md
+
+
 
 src/frontend/cypress/videos
 src/frontend/cypress/screenshots
